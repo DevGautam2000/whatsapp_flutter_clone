@@ -1,16 +1,10 @@
 # whatsapp_clone
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/1.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/2.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/3.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/4.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/5.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/6.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/7.png"  alt="Preview" width=400><br><br>
+<img src="https://raw.github.com/DevGautam2000/whatsapp_flutter_clone/master/simulator_snaps/8.png"  alt="Preview" width=400><br><br>
